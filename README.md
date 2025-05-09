@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: deekshasin1111@gmail.com
 - 😄 Pronouns: it/girl
 - ⚡ Fun fact: Jennie's album is a bop!!!
+
+[![Deeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deekshaasingh)](https://github.com/deekshaasingh/github-readme-stats)
