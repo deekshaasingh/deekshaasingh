@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: it/girl
 - ⚡ Fun fact: Jennie's album is a bop!!!
 
+- ![Deeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deekshaasingh&theme=monokai_icons=true)
+
