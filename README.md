@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<img src="https://media.tenor.com/f440ySfSBfQAAAAM/takane-lui-hacker-man.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - currently learning → backend dev ⚙️
